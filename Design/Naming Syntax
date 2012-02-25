@@ -1,0 +1,13 @@
+Naming Syntax Agreement:
+
+
+HTML: 		lower_case_with_underscores
+
+CSS: 		lower-case-with-hyphens
+
+PHP:		$my_variable
+		php_method()
+
+JavaScript:	ThisIsAClass
+		thisIsAVariable
+		thisIsAMethod()

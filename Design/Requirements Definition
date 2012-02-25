@@ -1,7 +1,14 @@
 <<<<<<<<<<<<<<<<<<<Requirements Definition:>>>>>>>>>>>>>>>>>>>>>>>>>
 Scope:
 
-The application must allow users to safely collaborate on app development without ever needing to meet the person. App makers should be able to recruit contributers based on reputation, and newbies should be able to build reputation by contributing in small ways without pay. Everything should be documented in such a way that one cannot "run off with the project" or receive payment for no work. Users should be able to securely make transactions. Users can build legitimate profiles for recruiters to see. Collaborators can start project forums or chat, and can post events to a calender, such as deadlines (notified by email as well).
+The application must allow users to safely collaborate on app development without ever 
+needing to meet the person. App makers should be able to recruit contributers based on 
+reputation, and newbies should be able to build reputation by contributing in small ways 
+without pay. Everything should be documented in such a way that one cannot "run off with 
+the project" or receive payment for no work. Users should be able to securely make 
+transactions. Users can build legitimate profiles for recruiters to see. Collaborators 
+can start project forums or chat, and can post events to a calender, such as deadlines 
+(notified by email as well).
 
 Needs:
 
